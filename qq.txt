@@ -1,0 +1,6 @@
+python 作用域
+
+所有对象都继承PyObject吗？
+
+with 上下文管理器
+
